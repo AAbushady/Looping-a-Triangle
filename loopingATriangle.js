@@ -12,7 +12,7 @@
 // #######
 
 (function () {
-    "using strict";
+    "use strict";
 
     // Constants and Variables
     const loopAmount = 7;
